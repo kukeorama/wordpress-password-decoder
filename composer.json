@@ -1,0 +1,9 @@
+{
+    "name": "wegocio/wordpress-password-decoder",
+    "description": "Decoder of hashed passwords stored in wordpress database",
+    "type": "project",
+    "require": {
+        "squizlabs/php_codesniffer": "^3.4"
+    },
+    "license": "GPL"
+}
